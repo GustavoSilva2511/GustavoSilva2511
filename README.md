@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSirHitsuji&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSirHitsuji&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
+  <p align="center">copy@DevSirHitsuji</p>
 <div>
-  <img aligh="center" src="https://sm.ign.com/t/ign_br/screenshot/default/rick-and-morty-6_xshv.1200.jpg"/>
+  <img align="center" src="https://sm.ign.com/t/ign_br/screenshot/default/rick-and-morty-6_xshv.1200.jpg"/>
 </div>
