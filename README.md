@@ -1,11 +1,8 @@
 ### Olá, me chamo carlos gustavo!👋
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente estou no estudando no projeto "programadores do amanhã".
-- 🌱 Estudando:  desenvolvimento web com html, css, javascript and python.
-- 💬 um jovem de 20 anos estudando programação.
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente estou participando do projeto "programadores do amanhã".
+- 🌱 Estudando: desenvolvimento web com html, css, javascript and python.
+- 💬 mini-bio: um jovem de 20 anos estudando programação.
+- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/DevSirHitsuji">
