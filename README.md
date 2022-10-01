@@ -2,7 +2,6 @@
 - 🔭 Atualmente estou participando do projeto "programadores do amanhã".
 - 🌱 Estudando: desenvolvimento web com html, css, javascript and python.
 - 💬 mini-bio: um jovem de 20 anos estudando programação.
-- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/DevSirHitsuji">
