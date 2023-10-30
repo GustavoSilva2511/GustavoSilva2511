@@ -1,7 +1,6 @@
 ### Olá, me chamo Carlos Gustavo!👋
-- 🔭 Atualmente estou participando do projeto "Programadores do Amanhã".
-- 🌱 Estudando: desenvolvimento web com html, css, javascript and python.
-- 💬 Mini-bio: um jovem de 20 anos estudando programação.
+- 🔭 Atualmente estou participando do projeto "Programadores do Amanhã" e atuo como dev trainee no MTM Tecnologia.
+- 🌱 Estudo: desenvolvimento web com html, css, javascript e python.
 
 <div>
   <a href="https://github.com/DevSirHitsuji">
