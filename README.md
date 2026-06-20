@@ -1,6 +1,6 @@
-### Olá, me chamo Gustavo Silva!👋
-- 🔭 Desenvolvedor Junior | MTM Tecnologia
-- 🌱 Cursando Engenharia de Software | Estacio de Sá
+### Hy, my name is Gustavo Silva!👋
+- 🔭 SOFTWARE DEVELOPER II | Mundiale
+- 🌱 Software engineer | Estacio de Sá
 
 <div>
   <a href="https://github.com/DevSirHitsuji">
